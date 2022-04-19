@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * April 22, 2022
+ * Kaune
+ * This is to demonstrate the submission of the ChooseYourOwnAdventure project from unit 3.
  */
 package chooseyourownadventure2;
 import java.util.Scanner;
